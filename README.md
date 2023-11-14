@@ -1,4 +1,8 @@
 ### Hi there 👋
+-Can not wait to
+-Hopefully I will
+-I'm excited to create this GitHub readme as this will
+-and finally, bonk.
 
 <!--
 **parthnagdev/parthnagdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
